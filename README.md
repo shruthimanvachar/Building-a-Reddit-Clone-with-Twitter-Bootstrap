@@ -1,4 +1,4 @@
-# web-nodejs-sample
+# Building a Reddit Clone with Twitter Bootstrap
 
 ExpressJS Sample Application
 
